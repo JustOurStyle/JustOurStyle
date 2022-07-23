@@ -13,6 +13,12 @@ I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.  I'm 
 ### MidJourney Batch Image Download solution (instructions for using Imageye Chrome Extension)
 > https://gist.github.com/JustOurStyle/dd9f0426e6033dc0486ba40bc74a92b1
 
+### Getting Started with MidJourney AI
+> https://gist.github.com/JustOurStyle/c6fd63c35db071e7a4e55e7e47add244
+
+### General Discord and MidJourney Tips
+> https://gist.github.com/JustOurStyle/242976fd41e3491b1e563cb9f3b17f79
+
 <!---
 JustOurStyle/JustOurStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

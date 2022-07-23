@@ -2,9 +2,9 @@
 
 I’m **JustOurStyle#5471** on Discord.  Feel free to message me there.
 
-I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.
+I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.  I'm not associated with MidJourney, I'm just a user. I collect things here so I have quick access to them, I hope you find them useful. 
 
-### iOS Shortcut to clean up copied MidJourney prompts on Discord mobile
+### iOS Shortcuts to clean up copied MidJourney prompts on Discord mobile
 > https://gist.github.com/JustOurStyle/1ae3b181efa98fbc854e6ea8c7d6f7a0
 
 ### MidJourney Batch Image Download solution (Tampermonkey Script)

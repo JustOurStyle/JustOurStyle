@@ -19,6 +19,9 @@ I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.  I'm 
 ### General Discord and MidJourney Tips
 > https://gist.github.com/JustOurStyle/242976fd41e3491b1e563cb9f3b17f79
 
+### Imgur Gallery: MidJourney Photo Exploration by Decade and More (AI Generated Aztec temples)
+> https://imgur.com/a/ACSJzE5
+
 <!---
 JustOurStyle/JustOurStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

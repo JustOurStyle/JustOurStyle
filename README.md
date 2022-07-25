@@ -13,7 +13,7 @@ I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.  I'm 
 ### MidJourney Batch Image Download solution (instructions for using Imageye Chrome Extension)
 > https://gist.github.com/JustOurStyle/dd9f0426e6033dc0486ba40bc74a92b1
 
-### Getting Started with MidJourney AI
+### Getting Started with MidJourney AI (Resources and Links)
 > https://gist.github.com/JustOurStyle/c6fd63c35db071e7a4e55e7e47add244
 
 ### General Discord and MidJourney Tips
@@ -21,6 +21,9 @@ I'm posting [MidJourney](https://www.midjourney.com/) tips and tools here.  I'm 
 
 ### Imgur Gallery: MidJourney Photo Exploration by Decade and More (AI Generated Aztec temples)
 > https://imgur.com/a/ACSJzE5
+
+### Tools and Apps for use with MidJourney
+> https://gist.github.com/JustOurStyle/e90f9bd30310e42f1a61f55d77f8e38c
 
 <!---
 JustOurStyle/JustOurStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
